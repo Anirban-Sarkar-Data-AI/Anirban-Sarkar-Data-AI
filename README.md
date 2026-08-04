@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there 👋, I'm Anirban Sarkar<br><br>💻 Data Analyst | AI/ML Engineer | GenAI Enthusiast<br><br>I'm passionate about building intelligent, data-driven solutions that solve real-world problems. My interests span Data Analytics, Machine Learning, Generative AI, NLP, Computer Vision, and Business Intelligence. I enjoy transforming raw data into actionable insights and continuously exploring emerging AI technologies.<br><br>🚀 About Me<br><br>🔭 I'm currently working on<br>- Building AI-powered applications using LLMs, LangChain, and RAG<br>- End-to-end Data Analytics & Power BI dashboard projects<br><br>🤝 I'm looking to collaborate on<br>- Open-source AI/ML & Data Science projects<br>- Generative AI, NLP, and Analytics applications<br><br>🆘 I'm looking for help with<br>- Advanced LLM fine-tuning<br>- AI Agents, MCP, and scalable RAG architectures<br><br>🌱 I'm currently learning<br>- Agentic AI<br>- LlamaIndex & LangGraph<br>- MLOps, Docker & AWS<br>- Advanced Prompt Engineering<br><br>💬 Ask me about<br>- Python<br>- SQL<br>- Power BI<br>- Machine Learning<br>- Data Analysis<br>- Generative AI<br>- NLP<br>- Career in Data & AI<br><br>⚡ Fun fact<br>I enjoy turning messy datasets into meaningful insights and love learning a new AI tool or framework every week!
 
-<!--
-**Anirban-Sarkar-Data-AI/Anirban-Sarkar-Data-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anirban-sarkar-ai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anirbansarkar9933399@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Anirban-Sarkar-Data-AI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Anirban-Sarkar-Data-AI&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anirban-Sarkar-Data-AI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Anirban-Sarkar-Data-AI&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
